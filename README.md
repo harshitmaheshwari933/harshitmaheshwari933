@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshitmaheshwari933
-- 👀 I’m interested in Web Dveelopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking for collaborators on BackEnd Development
 - 📫 How to reach me harshitmaheshwari539@gmail.com
